@@ -1,8 +1,6 @@
 theme: jekyll-theme-minimal
 title: Monique Wan
-description: Associate Professor 
-\n Department of Economics 
-\n Hong Kong Baptist University
+description: <img src = "hkbu.png" width = "78"/>
 navigation:
   - title: Home
     url: /
