@@ -11,7 +11,7 @@ Kowloon Tong, Hong Kong.
 * **Phone:** (852) 3411-7545
 
 <a href = "https://hk.linkedin.com/in/monique-wan-93a668122"><img src = "in.png" width = "78"/></a>
-<a href = "https://github.com/Monique-Wan/moniquewan/settings/pages"><img src = "github.png" width = "78"/></a>
+<a href = "https://github.com/Monique-Wan"><img src = "github.png" width = "78"/></a>
 
 
 
