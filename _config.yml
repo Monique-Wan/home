@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Monique Wan
-description: <img src = "hkbu.png" width = "78"/>
+description: <img src = "hkbu.png" width = "100"/>
 navigation:
   - title: Home
     url: /
