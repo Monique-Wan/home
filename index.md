@@ -2,7 +2,7 @@
 
 Associate Professor, [Department of Economics](https://econ.hkbu.edu.hk/eng/main/Index), [Hong Kong Baptist University](https://bus.hkbu.edu.hk/eng/bus/main/Index)
 
-[Publications]{research.md}
+[Publications](research.md)
 
 ### Contact Me
 * **Address:** WLB528, 5/F, Shaw Campus, 34 Renfrew Road, Kowloon Tong, Hong Kong.
