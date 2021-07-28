@@ -1,3 +1,14 @@
-github:
-is_project_page: false
-theme: jekyll-theme-caymen
+theme: jekyll-theme-minimal
+title: Monique Wan
+description: Associate Professor  
+Department of Economics  
+Hong Kong Baptist University  
+show_downloads: false
+navigation:
+  - title: Reseearch
+    url: research.md
+  - title: Teaching
+    url: teaching.md
+
+
+
