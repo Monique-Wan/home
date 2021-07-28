@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Monique Wan
 description: Associate Professor, Department of Economics, Hong Kong Baptist University
 navigation:
-  - title: [Research](research.md)
-
+  - title: Research
+    url: research
