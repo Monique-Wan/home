@@ -4,7 +4,7 @@ Monique is an Associate Professor of [Economics](https://econ.hkbu.edu.hk/eng/ma
 
 
 
-### Contact Me
+### Contact Information
 * **Address:** WLB528, 34 Renfrew Road, Kowloon Tong, Hong Kong.
 * **Email:** <shuiki@hkbu.edu.hk>
 * **Phone:** (852) 3411-7545
