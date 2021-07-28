@@ -8,7 +8,7 @@ Associate Professor
 
 ### Contact Me
 * **Address:** WLB528, 34 Renfrew Road, Kowloon Tong, Hong Kong.
-* **Email:** shuiki@hkbu.edu.hk
+* **Email:** <shuiki@hkbu.edu.hk>
 * **Phone:** (852) 3411-7545
 
 <a href = "https://hk.linkedin.com/in/monique-wan-93a668122"><img src = "in.png" width = "78"/></a>
