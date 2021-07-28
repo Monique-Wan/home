@@ -1,6 +1,8 @@
 # Monique S.K. Wan
 
-Associate Professor, [Department of Economics](https://econ.hkbu.edu.hk/eng/main/Index), [Hong Kong Baptist University](https://bus.hkbu.edu.hk/eng/bus/main/Index)
+Associate Professor  
+[Department of Economics](https://econ.hkbu.edu.hk/eng/main/Index)  
+[Hong Kong Baptist University](https://bus.hkbu.edu.hk/eng/bus/main/Index)  
 
 ## [Publications](research.md)
 
