@@ -9,5 +9,9 @@ Associate Professor, [Department of Economics](https://econ.hkbu.edu.hk/eng/main
 Kowloon Tong, Hong Kong.
 * **Email:** shuiki@hkbu.edu.hk
 * **Phone:** (852) 3411-7545
-* **LinkedIn:** [Monique Wan](https://hk.linkedin.com/in/monique-wan-93a668122)
-* **Github:** [Monique-Wan](https://github.com/Monique-Wan/moniquewan/settings/pages)
+
+<a href = "https://hk.linkedin.com/in/monique-wan-93a668122"><img src = "in.png" width = "78"/></a>
+<a href = "https://github.com/Monique-Wan/moniquewan/settings/pages"><img src = "github.png" width = "78"/></a>
+
+
+
