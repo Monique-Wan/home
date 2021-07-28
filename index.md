@@ -7,8 +7,7 @@ Associate Professor
 ## [Publications](research.md)
 
 ### Contact Me
-* **Address:** WLB528, 5/F, Shaw Campus, 34 Renfrew Road,   
-Kowloon Tong, Hong Kong.
+* **Address:** WLB528, 34 Renfrew Road, Kowloon Tong, Hong Kong.
 * **Email:** shuiki@hkbu.edu.hk
 * **Phone:** (852) 3411-7545
 
