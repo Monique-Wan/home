@@ -16,4 +16,4 @@
 14. Hsiao, C., & Shui, S. (2011). Comparison of Forecasting Methods with an Application to Predicting Excess Equity Premium. ***Mathematics and Computers in Simulation***, 81(7), 1235 - 1246.
 15. Ching, H., Hsiao, C., Wan, S., & Wang, T. (2011). Economic Benefits of Globalization - the Impact of Entry to WTO on China's Growth. ***Pacific Economic Review***, 16(3), 285 - 301.
 
-[Back to the Home Page]{index.md}
+[Back to the Home Page](index.md)
