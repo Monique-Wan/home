@@ -5,6 +5,12 @@ Monique is an Associate Professor of [Economics](https://econ.hkbu.edu.hk/eng/ma
 
 
 ### Contact Information
+|      |       |
+|:--------|:----------------------------------------|
+|**Address**|WLB528, 5/F, The Wing Lung Bank Building for Business Studies, Shaw Campus, 34 Renfrew Road, Kowloon Tong, Hong Kong |
+|**Email**|<shuiki@hkbu.edu.hk>|
+|**Phone**| (852) 3411-7545|
+> 
 > WLB528, 5/F,  
 > The Wing Lung Bank Building for Business Studies,  
 > Shaw Campus, 34 Renfrew Road  
