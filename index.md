@@ -6,6 +6,13 @@ Monique is an Associate Professor of [Economics](https://econ.hkbu.edu.hk/eng/ma
 <br/><br/> 
 
 
+###### Header 6
+
+|              |                   | 
+|:-------------|:------------------|
+| **Address**  | good swedish fish | 
+| **Email**    | good and plenty   | 
+| **Phone**    | good `oreos`      | 
 
 ### Contact Information
 > WLB528, 5/F,  
