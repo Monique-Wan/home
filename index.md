@@ -6,23 +6,15 @@ Monique is an Associate Professor of [Economics](https://econ.hkbu.edu.hk/eng/ma
 <br/><br/> 
 
 
-###### Header 6
+### Contact Information
 
 |              |                   | 
 |:-------------|:------------------|
-| **Address**  | good swedish fish | 
-| **Email**    | good and plenty   | 
-| **Phone**    | good `oreos`      | 
+| **Address** <br /><br /><br /><br /> | WLB528, 5/F, <br />The Wing Lung Bank Building for Business Studies, <br />Shaw Campus, 34 Renfrew Road, <br />Kowloon Tong, Hong Kong| 
+| **Email**    | <shuiki@hkbu.edu.hk>   | 
+| **Phone**    | (852) 3411-7545     | 
+  
 
-### Contact Information
-> WLB528, 5/F,  
-> The Wing Lung Bank Building for Business Studies,  
-> Shaw Campus, 34 Renfrew Road  
-> Kowloon Tong, Hong Kong  
-
-> <shuiki@hkbu.edu.hk>  
-
-> (852) 3411-7545
 
 <a href = "https://hk.linkedin.com/in/monique-wan-93a668122"><img src = "in.png" width = "78"/></a>
 <a href = "https://github.com/Monique-Wan"><img src = "github.png" width = "78"/></a>
