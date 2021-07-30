@@ -20,7 +20,7 @@
 * Master of Public Adminstration
   * ECON7080 Economics of Public Policy
 
-</br>
-</br>
+<br/>
+<br/>
 
-[<img src = "home.png" width = "81"/>](index.md)
+[<img src = "home.png" width = "78"/>](index.md)
