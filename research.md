@@ -20,4 +20,4 @@
 ### Book Chapters
 * Wang, S., Wan, S. (2020) A VAR approach to forecasting multivariate long memory processes subject to structural breaks, ***Advances in Econometrics*** 42(3), in: Tong Li & M. Hashem Pesaran & Dek Terrell (ed.) Essays in Honor of Cheng Hsiao, Vol. 41, pp 105–141, Emerald Publishing Ltd.
 
-[Back to the Home Page](index.md)
+[Return Home](index.md)
