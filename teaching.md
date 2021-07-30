@@ -23,4 +23,4 @@
 <br/>
 <br/>
 
-[<img src = "home.png" width = "78"/>](index.md)
+[Return Home](index.md)
