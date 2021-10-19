@@ -1,6 +1,7 @@
 ## Courses
 
 * [BBA Economics and Data Analytics Concentration](https://bba.hkbu.edu.hk/eng/programmes/curriculum/econ.jsp)
+  * BUSI2045 Data Analytics for Business Decision Making
   * ECON3105 Big Data Analytics
   * ECON3005 Applied Econometrics
   * ECON4006 Time Series Analysis and Forecasting
@@ -15,6 +16,7 @@
   
 * [MSc Data Analytics and Business Economics](https://mscdabe.hkbu.edu.hk/eng/main/Index)
   * ECON7880 Foundations in Big Data Analytics: Concepts and Techniques
+  * ECON7890 Foundations in Big Data Analytics: Programming
   * ECON7920 Executive Workshop Series
   
 * Master of Public Adminstration
