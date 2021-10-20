@@ -12,10 +12,10 @@
 * Hsiao, C., & Wan, S. (2014). Is there an Optimal Forecast Combination?. ***Journal of Econometrics***, 178(part 2), 294 - 309.
 * Wan, S., Wang, S., & Woo, C. (2013). Aggregate vs. Disaggregate Forecast: Case of Hong Kong. ***Annals of Tourism Research*** 42, 434 - 438.
 * Wan, S., Wang, S., & Xie, Y. (2013). A Time-Varying Parameter Approach to Re-examining the Chinese RMB. ***Empirical Economics Letters***, 12(4), 351 - 361.
-* Hsiao, C., Ching, H., & Wan, S. (2012). A Panel Data Approach for Program Evaluation - Measuring the Benefits of Political and Economic Integration of Hong Kong with mainland China. ***Journal of Applied Econometrics***, 27(5), 705 - 740.
+* Hsiao, C., Ching, H., & Wan, S. (2012). A Panel Data Approach for Program Evaluation - Measuring the Benefits of Political and Economic Integration of Hong Kong with Mainland China. ***Journal of Applied Econometrics***, 27(5), 705 - 740.
 * Ching, S., Hsiao, C., & Wan, S. (2012). Impact of CEPA on the Labor Market of Hong Kong. ***China Economic Review***, 23(4), 975 - 981.
 * Hsiao, C., & Shui, S. (2011). Comparison of Forecasting Methods with an Application to Predicting Excess Equity Premium. ***Mathematics and Computers in Simulation***, 81(7), 1235 - 1246.
-* Ching, H., Hsiao, C., Wan, S., & Wang, T. (2011). Economic Benefits of Globalization - the Impact of Entry to WTO on China's Growth. ***Pacific Economic Review***, 16(3), 285 - 301.
+* Ching, H., Hsiao, C., Wan, S., & Wang, T. (2011). Economic Benefits of Globalization - the Impact of Entry to the WTO on China's Growth. ***Pacific Economic Review***, 16(3), 285 - 301.
 
 ### Book Chapters
 * Wang, S., Wan, S. (2020) A VAR approach to forecasting multivariate long memory processes subject to structural breaks, ***Advances in Econometrics*** 42(3), in: Tong Li & M. Hashem Pesaran & Dek Terrell (ed.) Essays in Honor of Cheng Hsiao, Vol. 41, pp 105–141, Emerald Publishing Ltd.
