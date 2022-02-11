@@ -23,8 +23,8 @@
 ### Grants
 * General Research Fund, Research Grant Council, Hong Kong (Project # 292413), 2013, Predictive Regression: A Two-staged Generalized Cochrane-Orcutt Transformation 
 with AR Approximation Approach.
-* Early Career Scheme, Research Grant Council, Hong Kong (Project # 255212), 2012, Robust Bayesian Forecast Combination: Application and Extension. (PI)
-* General Research Fund, Research Grant Council, Hong Kong (Project # 241612), 2012, China's Growth-Energy-Nexus - Aggregate and Disaggregate Analysis. (Co-I)
+* Early Career Scheme, Research Grant Council, Hong Kong (Project # 255212), 2012, Robust Bayesian Forecast Combination: Application and Extension.
+* General Research Fund, Research Grant Council, Hong Kong (Project # 241612), 2012, China's Growth-Energy-Nexus - Aggregate and Disaggregate Analysis.
 * General Research Fund, Research Grant Council, Hong Kong (Project # 248311), 2011, Identifying and Testing for Moral Hazard in French Automobile Insurance Market.
 * Faculty Research Grant, HKBU (FRG2/11-12/109), 2011, A Comprehensive Study of Predictive Regression.
 * Faculty Research Grant, HKBU (FRG2/10-11/058), 2011, Double Transfer Strategy and Productivity Improvement.
