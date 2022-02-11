@@ -20,4 +20,13 @@
 ### Book Chapters
 * Wang, S., Wan, S. (2020) A VAR approach to forecasting multivariate long memory processes subject to structural breaks, ***Advances in Econometrics*** 42(3), in: Tong Li & M. Hashem Pesaran & Dek Terrell (ed.) Essays in Honor of Cheng Hsiao, Vol. 41, pp 105–141, Emerald Publishing Ltd.
 
+### Grants
+* General Research Fund, Research Grant Council, Hong Kong (Project # 292413), 2013, Predictive Regression: A Two-staged Generalized Cochrane-Orcutt Transformation 
+with AR Approximation Approach.
+* Early Career Scheme, Research Grant Council, Hong Kong (Project # 255212), 2012, Robust Bayesian Forecast Combination: Application and Extension. (PI)
+* General Research Fund, Research Grant Council, Hong Kong (Project # 241612), 2012, China's Growth-Energy-Nexus - Aggregate and Disaggregate Analysis. (Co-I)
+* General Research Fund, Research Grant Council, Hong Kong (Project # 248311), 2011, Identifying and Testing for Moral Hazard in French Automobile Insurance Market.
+* Faculty Research Grant, HKBU (FRG2/11-12/109), 2011, A Comprehensive Study of Predictive Regression.
+* Faculty Research Grant, HKBU (FRG2/10-11/058), 2011, Double Transfer Strategy and Productivity Improvement.
+
 [Return Home](index.md)
