@@ -14,7 +14,7 @@
   * ECON7840 Big Data Analytics for Business
   * ECON7420 Applied Time Series Analysis and Forecasting
  
-* [MSc Business Management](https://mscaecon.hkbu.edu.hk/eng/main/Index](https://mscbm.hkbu.edu.hk/eng/main/Index)
+* [MSc Business Management](https://mscbm.hkbu.edu.hk/eng/main/Index)
   * ECON7860 Big Data Analytics for Business
 
 * [MSc Data Analytics and Business Economics](https://mscdabe.hkbu.edu.hk/eng/main/Index)
