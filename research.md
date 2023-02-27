@@ -21,7 +21,7 @@
 * Wang, S., Wan, S. (2020) A VAR approach to forecasting multivariate long memory processes subject to structural breaks, ***Advances in Econometrics*** 42(3), in: Tong Li & M. Hashem Pesaran & Dek Terrell (ed.) Essays in Honor of Cheng Hsiao, Vol. 41, pp 105–141, Emerald Publishing Ltd.
 
 ### Grants
-* Public Policy Research Fund, PICO, Hong Kong (Project # 2022.A2.053.22B), 2022, Constructing Daily Hong Kong Online Consumer Price Index and Price Dynamics: The Role of E-commerce in the Post-pandemic Era. 
+* Public Policy Research Fund, PICO, Hong Kong (Project # 2022.A2.053.22B), 2022, Constructing Daily Hong Kong Online Price Index and Price Dynamics: The Role of E-commerce in the Post-pandemic Era. 
 * General Research Fund, Research Grant Council, Hong Kong (Project # 292413), 2013, Predictive Regression: A Two-staged Generalized Cochrane-Orcutt Transformation with AR Approximation Approach.
 * Early Career Scheme, Research Grant Council, Hong Kong (Project # 255212), 2012, Robust Bayesian Forecast Combination: Application and Extension.
 * General Research Fund, Research Grant Council, Hong Kong (Project # 241612), 2012, China's Growth-Energy-Nexus - Aggregate and Disaggregate Analysis.
