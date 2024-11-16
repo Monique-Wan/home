@@ -2,7 +2,7 @@
 
 ### Selected Journal Articles/ Book Chapters
 
-* Wan, S., & Alfred Sam. (2024). From praise to polarization: The role of controversial reviews in shaping consumer behavior in the PC game market. ***Journal of Marketing Analytics***, forthcoming. [OpenAccess](https://link.springer.com/article/10.1057/s41270-024-00359-2)
+* Wan, S., & Alfred Sam. (2024). From praise to polarization: The role of controversial reviews in shaping consumer behavior in the PC game market. ***Journal of Marketing Analytics***, forthcoming. [Download Here](https://link.springer.com/article/10.1057/s41270-024-00359-2)
 * Wan, S., Hsiao, C., & Zhou, Q. (2021). Can a time-varying structure provide a more robust panel construction of counterfactuals-straitjacket or straitjackets?. ***Empirical Economics***, 60, 113-129.
 * Wang, S., Wan, S. (2020) A VAR approach to forecasting multivariate long memory processes subject to structural breaks, ***Advances in Econometrics*** 42(3), in: Tong Li & M. Hashem Pesaran & Dek Terrell (ed.) Essays in Honor of Cheng Hsiao, Vol. 41, pp 105–141, Emerald Publishing Ltd.
 * Wan, S., & Song, H. (2019). Economic Impact Assessment of Mega-Events in the United Kingdom and Brazil. ***Journal of Hospitality and Tourism Research***, 43(7), 1044-1067.
