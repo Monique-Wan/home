@@ -1,6 +1,6 @@
 ## Courses
 
-* [MBA](https://mba.hkbu.edu.hk/))
+* [MBA](https://mba.hkbu.edu.hk/)
   * BUSD7130 Business Analytics 
  
  
