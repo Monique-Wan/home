@@ -31,5 +31,5 @@
 
 ### Awards
 * 2024 Excellent Reviewer Award, ***Tourism Analysis***
-* 
+  
 [Return Home](index.md)
