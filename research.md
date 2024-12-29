@@ -29,4 +29,7 @@
 * Faculty Research Grant, HKBU (FRG2/11-12/109), 2011, A Comprehensive Study of Predictive Regression.
 * Faculty Research Grant, HKBU (FRG2/10-11/058), 2011, Double Transfer Strategy and Productivity Improvement.
 
+### Awards
+* 2024 Excellent Reviewer Award, ***Tourism Analysis***
+* 
 [Return Home](index.md)
